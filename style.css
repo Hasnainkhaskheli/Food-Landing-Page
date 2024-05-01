@@ -1,0 +1,93 @@
+*{
+    font-family: 'Merienda', 'Verdana'cursive;
+}
+.text-color1{
+    color: #FF8B00 !important;
+}
+
+.text-color2{
+    color: #396C03;
+}
+.btn-green{
+    background-color: #396C03 !important;
+}
+.seacondry-color{
+    background-color: #FF8B00 !important;
+
+}
+
+.bolld{
+    color: #5c5959;
+}
+.textC{
+    color: #396C03 !important;
+    font-family:'Merienda';
+}
+
+.font-size-65{
+    font-family:'Merienda';
+    font-size: 65px;
+    font-weight: 700;
+}
+.font-size-24{
+    font-size: 24px;
+}
+.bg{
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0.4) 100%);
+}
+.margiin{
+    margin-left: 25%;
+}
+.hero-letters{
+font-family: Verdana;
+font-size: 18px;
+font-weight: 400;
+line-height: 28.5px;
+
+}
+.bg-color{
+    background-color:rgba(255, 139, 0, .05);
+    
+}
+
+.bgcolor{
+    background: rgba(57, 108, 3, .05);
+
+}
+.bg-color2{
+     background: rgb(238, 255, 223);
+}
+
+.bgColour{
+    background: #ff8c004f;
+    margin-top: 70px;
+}
+.Bgclr{
+    background: #224300;
+}
+.font{
+    font-family: Verdana;  
+}
+
+.bg-image{
+   background-image: url("./Images/bgimage.svg");
+   height: 100vh;
+   width: 1241px;
+   background-repeat:no-repeat ;
+   margin-top: 30px;
+   margin-bottom: 50px;
+}
+.txt2{
+    margin-top: -300px;
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+.frQ{
+    margin-top: 300px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.parra{
+    color: #DEDEDE !important;
+}
