@@ -70,7 +70,7 @@ line-height: 28.5px;
 }
 
 .bg-image{
-   background-image: url("./Images/bgimage.svg");
+   background-image: url("./images/bgimage.svg");
    height: 100vh;
    width: 1241px;
    background-repeat:no-repeat ;
